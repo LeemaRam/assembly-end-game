@@ -1,8 +1,14 @@
+
+
+
 # Assembly End Game
 
 Assembly End Game is a React word-guessing game inspired by Hangman.
 The player has a limited number of guesses to reveal a hidden word one letter at a time.
 Wrong guesses eliminate programming languages from the list, and the game ends with either a win (word completed) or a loss (guesses exhausted).
+
+![assembly-endgame](https://github.com/user-attachments/assets/3a25ce19-f766-4d15-a8e4-1f60528aec6c)
+
 
 ## Features
 
